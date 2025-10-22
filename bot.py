@@ -13,7 +13,7 @@ import logging
 # -----------------------------
 # CONFIG
 # -----------------------------
-BOT_TOKEN = os.environ.get("7803458221:AAH1JuQpJ1RR5ZtihC_3UUaF9l_ToqPCIyM")
+BOT_TOKEN = os.environ.get("7803458221:AAGRikMyZYdbFwlUTXY3YOv1L7IdWRMmqek")
 ADMIN_CHAT_ID = 8064043725
 UPLOAD_KEY = "admin000"
 
